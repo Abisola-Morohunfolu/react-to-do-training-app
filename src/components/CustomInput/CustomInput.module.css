@@ -1,0 +1,35 @@
+.Form {
+	display: flex;
+	justify-content: center;
+	background-color: #5c76e4;
+	padding: 2rem;
+}
+
+.Form input {
+	border: none;
+	outline: none;
+	border-bottom: 1px solid #fff;
+	background: transparent;
+	color: #fff;
+	font-family: inherit;
+	width: 75%;
+	font-size: 1.6rem;
+	text-align: center;
+}
+
+.Form input::placeholder {
+	color: #fff;
+}
+
+.Form button {
+	border: none;
+	outline: none;
+	font-family: inherit;
+	font-size: 1.6rem;
+	background-color: #fff;
+	color: #5c76e4;
+	padding: 8px 1.6rem;
+	border-radius: 3px;
+	margin-left: 2rem;
+	cursor: pointer;
+}

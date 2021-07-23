@@ -1,0 +1,20 @@
+.App {
+	display: flex;
+	width: 100%;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+
+.App h1 {
+	margin-top: 3rem;
+	color: #5c76e4;
+}
+
+.ToDoContainer {
+	border: 1px solid #5c76e4;
+	min-width: 50%;
+	min-height: 75vh;
+	border-radius: 5px;
+	margin-top: 2rem;
+}
