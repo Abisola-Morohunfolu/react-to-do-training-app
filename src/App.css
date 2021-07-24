@@ -14,7 +14,7 @@
 .ToDoContainer {
 	border: 1px solid #5c76e4;
 	min-width: 50%;
-	min-height: 75vh;
+	min-height: max-content;
 	border-radius: 5px;
 	margin-top: 2rem;
 }

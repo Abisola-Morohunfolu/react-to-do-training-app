@@ -1,0 +1,11 @@
+.Button {
+	padding: 8px 1.6rem;
+	font-family: inherit;
+	background-color: salmon;
+	color: #fff;
+	border: none;
+	outline: none;
+	font-size: 1.4rem;
+	border-radius: 3px;
+	cursor: pointer;
+}

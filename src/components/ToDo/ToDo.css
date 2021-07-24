@@ -1,0 +1,15 @@
+.Todo {
+	margin: 2rem;
+	padding: 1.5rem 1rem;
+	display: flex;
+	align-items: center;
+	border: 1px solid #5c76e4;
+	border-radius: 5px;
+}
+
+.Todo h4 {
+	width: 85%;
+	text-transform: capitalize;
+	font-size: 1.8rem;
+	font-weight: 400;
+}
